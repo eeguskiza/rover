@@ -1,0 +1,24 @@
+[0.291s] Invoking command in '/root/workspace/ros2_ws/src/bluetooth_joystick': PYTHONPATH=/root/workspace/ros2_ws/build/bluetooth_joystick/prefix_override:/root/workspace/ros2_ws/install/bluetooth_joystick/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bluetooth_joystick build --build-base /root/workspace/ros2_ws/build/bluetooth_joystick/build install --record /root/workspace/ros2_ws/build/bluetooth_joystick/install.log --install-scripts $base/lib/bluetooth_joystick --single-version-externally-managed
+[0.387s] running egg_info
+[0.387s] writing ../../build/bluetooth_joystick/bluetooth_joystick.egg-info/PKG-INFO
+[0.387s] writing dependency_links to ../../build/bluetooth_joystick/bluetooth_joystick.egg-info/dependency_links.txt
+[0.387s] writing entry points to ../../build/bluetooth_joystick/bluetooth_joystick.egg-info/entry_points.txt
+[0.387s] writing requirements to ../../build/bluetooth_joystick/bluetooth_joystick.egg-info/requires.txt
+[0.388s] writing top-level names to ../../build/bluetooth_joystick/bluetooth_joystick.egg-info/top_level.txt
+[0.405s] reading manifest file '../../build/bluetooth_joystick/bluetooth_joystick.egg-info/SOURCES.txt'
+[0.405s] writing manifest file '../../build/bluetooth_joystick/bluetooth_joystick.egg-info/SOURCES.txt'
+[0.405s] running build
+[0.405s] running build_py
+[0.405s] copying bluetooth_joystick/joystick_publisher.py -> /root/workspace/ros2_ws/build/bluetooth_joystick/build/lib/bluetooth_joystick
+[0.405s] running install
+[0.406s] running install_lib
+[0.406s] copying /root/workspace/ros2_ws/build/bluetooth_joystick/build/lib/bluetooth_joystick/joystick_publisher.py -> /root/workspace/ros2_ws/install/bluetooth_joystick/lib/python3.8/site-packages/bluetooth_joystick
+[0.406s] byte-compiling /root/workspace/ros2_ws/install/bluetooth_joystick/lib/python3.8/site-packages/bluetooth_joystick/joystick_publisher.py to joystick_publisher.cpython-38.pyc
+[0.407s] running install_data
+[0.407s] running install_egg_info
+[0.408s] removing '/root/workspace/ros2_ws/install/bluetooth_joystick/lib/python3.8/site-packages/bluetooth_joystick-0.0.0-py3.8.egg-info' (and everything under it)
+[0.408s] Copying ../../build/bluetooth_joystick/bluetooth_joystick.egg-info to /root/workspace/ros2_ws/install/bluetooth_joystick/lib/python3.8/site-packages/bluetooth_joystick-0.0.0-py3.8.egg-info
+[0.409s] running install_scripts
+[0.417s] Installing joystick_publisher script to /root/workspace/ros2_ws/install/bluetooth_joystick/lib/bluetooth_joystick
+[0.417s] writing list of installed files to '/root/workspace/ros2_ws/build/bluetooth_joystick/install.log'
+[0.430s] Invoked command in '/root/workspace/ros2_ws/src/bluetooth_joystick' returned '0': PYTHONPATH=/root/workspace/ros2_ws/build/bluetooth_joystick/prefix_override:/root/workspace/ros2_ws/install/bluetooth_joystick/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/bluetooth_joystick build --build-base /root/workspace/ros2_ws/build/bluetooth_joystick/build install --record /root/workspace/ros2_ws/build/bluetooth_joystick/install.log --install-scripts $base/lib/bluetooth_joystick --single-version-externally-managed
